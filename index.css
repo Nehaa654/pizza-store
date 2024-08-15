@@ -1,0 +1,50 @@
+/* src/index.css */
+
+/* Basic global reset to ensure consistent styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set a global font and background */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #a0a2a4; /* Light grey background */
+  color: #212529; /* Default text color */
+  line-height: 1.6;
+}
+
+/* Global link styling */
+a {
+  text-decoration: none;
+  color: #007bff; /* Bootstrap primary color */
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
+/* Add padding for container elements */
+.container {
+  padding: 20px;
+}
+
+/* Global button styling */
+button {
+  cursor: pointer;
+}
+
+/* Example navbar styling */
+.navbar {
+  background-color: #343a40; /* Bootstrap dark background */
+}
+
+.navbar a {
+  color: rgb(12, 12, 12);
+}
+
+.navbar a:hover {
+  color: lightgray;
+}

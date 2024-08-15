@@ -1,0 +1,30 @@
+/* src/components/About.css */
+
+.container {
+  padding: 20px;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+
+.mb-5 {
+  margin-bottom: 3rem;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+}
+
+.order-md-1 {
+  order: 1;
+}
+
+.order-md-2 {
+  order: 2;
+}

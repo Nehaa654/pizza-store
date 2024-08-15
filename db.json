@@ -1,0 +1,114 @@
+{
+    "pizzas": [
+      {
+        "id": 1,
+        "name": "Margherita Classic",
+        "price": 12.99,
+        "description": "Traditional Italian pizza with fresh mozzarella, tomatoes, and basil on a thin crust",
+        "ingredients": ["Tomato Sauce", "Fresh Mozzarella", "Fresh Basil", "Extra Virgin Olive Oil"],
+        "image": "https://placehold.co/400x300?text=Margherita+Classic",
+        "category": "Traditional",
+        "vegetarian": true,
+        "popular": true
+      },
+      {
+        "id": 2,
+        "name": "Pepperoni Passion",
+        "price": 14.99,
+        "description": "A meat lover's delight with generous portions of pepperoni and mozzarella cheese",
+        "ingredients": ["Tomato Sauce", "Mozzarella", "Pepperoni"],
+        "image": "https://placehold.co/400x300?text=Pepperoni+Passion",
+        "category": "Meat",
+        "vegetarian": false,
+        "popular": true
+      },
+      {
+        "id": 3,
+        "name": "Veggie Supreme",
+        "price": 15.99,
+        "description": "Loaded with a variety of fresh vegetables on a whole wheat crust",
+        "ingredients": ["Tomato Sauce", "Mozzarella", "Bell Peppers", "Onions", "Mushrooms", "Black Olives", "Spinach"],
+        "image": "https://placehold.co/400x300?text=Veggie+Supreme",
+        "category": "Vegetarian",
+        "vegetarian": true,
+        "popular": false
+      },
+      {
+        "id": 4,
+        "name": "BBQ Chicken Deluxe",
+        "price": 16.99,
+        "description": "Tender chicken pieces with red onions and cilantro on a tangy BBQ sauce base",
+        "ingredients": ["BBQ Sauce", "Mozzarella", "Grilled Chicken", "Red Onions", "Cilantro"],
+        "image": "https://placehold.co/400x300?text=BBQ+Chicken+Deluxe",
+        "category": "Specialty",
+        "vegetarian": false,
+        "popular": true
+      },
+      {
+        "id": 5,
+        "name": "Mediterranean Delight",
+        "price": 15.99,
+        "description": "A taste of the Mediterranean with feta cheese, olives, and sun-dried tomatoes",
+        "ingredients": ["Olive Oil", "Mozzarella", "Feta Cheese", "Kalamata Olives", "Sun-Dried Tomatoes", "Fresh Oregano"],
+        "image": "https://placehold.co/400x300?text=Mediterranean+Delight",
+        "category": "Specialty",
+        "vegetarian": true,
+        "popular": false
+      },
+      {
+        "id": 6,
+        "name": "Spicy Diavola",
+        "price": 16.99,
+        "description": "For spice lovers: hot soppressata, red chilies, and spicy tomato sauce",
+        "ingredients": ["Spicy Tomato Sauce", "Mozzarella", "Hot Soppressata", "Red Chilies", "Bell Peppers"],
+        "image": "https://placehold.co/400x300?text=Spicy+Diavola",
+        "category": "Spicy",
+        "vegetarian": false,
+        "popular": true
+      },
+      {
+        "id": 7,
+        "name": "Quattro Formaggi",
+        "price": 17.99,
+        "description": "A cheese lover's dream with a blend of four premium cheeses",
+        "ingredients": ["Tomato Sauce", "Mozzarella", "Gorgonzola", "Parmesan", "Goat Cheese"],
+        "image": "https://placehold.co/400x300?text=Quattro+Formaggi",
+        "category": "Vegetarian",
+        "vegetarian": true,
+        "popular": false
+      },
+      {
+        "id": 8,
+        "name": "Hawaiian Luau",
+        "price": 15.99,
+        "description": "A tropical twist with ham and pineapple",
+        "ingredients": ["Tomato Sauce", "Mozzarella", "Ham", "Pineapple"],
+        "image": "https://placehold.co/400x300?text=Hawaiian+Luau",
+        "category": "Specialty",
+        "vegetarian": false,
+        "popular": true
+      },
+      {
+        "id": 9,
+        "name": "Mushroom Truffle",
+        "price": 18.99,
+        "description": "A gourmet delight with assorted mushrooms and truffle oil",
+        "ingredients": ["Creamy Garlic Sauce", "Mozzarella", "Assorted Mushrooms", "Truffle Oil", "Fresh Thyme"],
+        "image": "https://placehold.co/400x300?text=Mushroom+Truffle",
+        "category": "Gourmet",
+        "vegetarian": true,
+        "popular": false
+      },
+      {
+        "id": 10,
+        "name": "Meat Lover's Feast",
+        "price": 19.99,
+        "description": "Loaded with pepperoni, sausage, bacon, and ground beef for the ultimate meat experience",
+        "ingredients": ["Tomato Sauce", "Mozzarella", "Pepperoni", "Italian Sausage", "Bacon", "Ground Beef"],
+        "image": "https://placehold.co/400x300?text=Meat+Lover's+Feast",
+        "category": "Meat",
+        "vegetarian": false,
+        "popular": true
+      }
+    ]
+  }
